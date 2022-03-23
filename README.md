@@ -21,16 +21,16 @@ function (firstName, lastName, age){
 
 Inputs and outputs should be valid JavaScript values!
 
-| Input | Output |
-| {"Andrew", "Conklin", 27} | {firstName: "Andrew", lastName: "Conklin", age: 27, |
-| {"Raja", "Catsmith", 6} | {firstName: "Raja", lastName: "Catsmith", age: 6, |
-| {"Fred", "Flintstone", 103} | {firstName: "Fred", lastName: "Flintstone", age: 103, |
-|       |        | 
+| Input                           | Output                                              |
+| ("Andrew", "Conklin", 27)       | {firstName: "Andrew", lastName: "Conklin", age: 27, |
+| ("Raja", "Catsmith", 6)         | {firstName: "Raja", lastName: "Catsmith", age: 6,   |
+| ("Fred", "Flintstone", 103)     | {firstName: "Fred", lastName: "Flintstone", age: 103|
+|                                 |                                                     | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td>This program takes in 3 inputted variables (firstName, lastName, age) and outputs an object (person) that has the the name:value pairs of the 3 inputted variables inside of it.   </td>
+    <td>This program takes in 3 inputted variables (firstName, lastName, age) and outputs an object (person) that has the the name:value pairs of the 3 inputted variables inside of it.</td>
   </tr>
 </table>
 
