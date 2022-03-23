@@ -21,11 +21,11 @@ function (firstName, lastName, age){
 
 Inputs and outputs should be valid JavaScript values!
 
-| Input                           | Output                                              |
-| ("Andrew", "Conklin", 27)       | {firstName: "Andrew", lastName: "Conklin", age: 27, |
-| ("Raja", "Catsmith", 6)         | {firstName: "Raja", lastName: "Catsmith", age: 6,   |
-| ("Fred", "Flintstone", 103)     | {firstName: "Fred", lastName: "Flintstone", age: 103|
-|                                 |                                                     | 
+| Input                           | Output                                               |
+| ("Andrew", "Conklin", 27)       | {firstName: "Andrew", lastName: "Conklin", age: 27,} |
+| ("Raja", "Catsmith", 6)         | {firstName: "Raja", lastName: "Catsmith", age: 6,}   |
+| ("Fred", "Flintstone", 103)     | {firstName: "Fred", lastName: "Flintstone", age: 103}|
+|                                 |                                                      | 
 
 <table>
   <tr>
