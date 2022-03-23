@@ -21,9 +21,9 @@ function (firstName, lastName, age){
 
 Inputs and outputs should be valid JavaScript values!
 
-| Input                           | Output                                               |
-| ("Andrew", "Conklin", 27)       | {firstName: "Andrew", lastName: "Conklin", age: 27,} |
-| ("Raja", "Catsmith", 6)         | {firstName: "Raja", lastName: "Catsmith", age: 6,}   |
+| Input                           | Output                                               | <br>
+| ("Andrew", "Conklin", 27)       | {firstName: "Andrew", lastName: "Conklin", age: 27,} | <br>
+| ("Raja", "Catsmith", 6)         | {firstName: "Raja", lastName: "Catsmith", age: 6,}   | <br>
 | ("Fred", "Flintstone", 103)     | {firstName: "Fred", lastName: "Flintstone", age: 103}|
 |                                 |                                                      | 
 
